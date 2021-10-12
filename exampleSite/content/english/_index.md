@@ -100,4 +100,5 @@ call_to_action:
     link: contact
 
 ---
-/images/15.png
+  
+![](/images/15.png)
